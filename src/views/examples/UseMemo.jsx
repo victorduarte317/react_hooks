@@ -2,8 +2,6 @@ import React, { useMemo, useState } from 'react'
 import PageTitle from '../../components/layout/PageTitle'
 
 function sum(a, b) {
-    const future = Date.now() + 2000
-    while(Date.now() < future) {} // Wait
     return a + b
 }
 

@@ -41,8 +41,8 @@ const UseEffect = (props) => {
         <div className="UseEffect">
             <PageTitle
                 title="Hook UseEffect"
-                subtitle="Permite executar efeitos colaterais em componentes funcionais!"
-            />
+                subtitle="Allow the execution of collateral effects in functional components!"
+            />             
 
             <div className='center'>
                 <div>
